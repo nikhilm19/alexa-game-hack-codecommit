@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "art of words",
+            "invocationName": "word play",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
