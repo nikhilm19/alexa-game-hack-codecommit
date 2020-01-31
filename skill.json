@@ -2,7 +2,7 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
+        "en-IN": {
           "summary": "A basic skill made from Alexa Skills Kit template",
           "examplePhrases": [
             "Alexa open hello node",
